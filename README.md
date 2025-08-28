@@ -103,6 +103,6 @@ SMS notifications via the configured SMS API.
 Email notifications sent to designated recipients.
 You can configure the recipients and the message content in the alert settings of the system.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
 
