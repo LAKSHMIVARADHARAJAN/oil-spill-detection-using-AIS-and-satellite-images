@@ -148,7 +148,7 @@ if response.status_code == 200:
         f.write(response.content)
     
     # Example: If oil spill is detected
-    oil_spill_detected = True  # Replace with actual detection logic
+    oil_spill_detected = True  
 
     if oil_spill_detected:
         # Sample latitude, longitude, and vessel information (replace with actual data)
@@ -207,3 +207,4 @@ if response.status_code == 200:
 
 else:
     print(f"Failed to retrieve data: {response.status_code} - {response.text}")
+
